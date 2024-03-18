@@ -1,0 +1,8 @@
+packing everything in one container so all the configurations
+is all set up with the applications
+
+containers share the hosts os so its more light waight
+uses less meemorey
+
+hoe some experience in web development!
+in this course well use a node.js and express and react
